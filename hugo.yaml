@@ -1,13 +1,23 @@
 baseURL: "https://catherinebarber.github.io"
-title: A small blog
+title: two for joy
 paginate: 5
 theme: PaperMod
+
+markup:
+  goldmark:
+    renderHooks:
+    image:
+      enableDefault: true
+      useEmbedded: auto
+    link:
+      enableDefault: true
+      useEmbedded: auto
 
 params:
   defaultTheme: dark
   homeInfoParams:
     Title: Haha, how did you even find this site?? 
-    Content: Well, come on in anyway
+    Content: Well, come on in anyway. It's very much under construction, so don't judge it too harshly <3
     majorButtons:
         - name: About
           url: about/

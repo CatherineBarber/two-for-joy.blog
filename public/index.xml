@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>A small blog</title>
+    <title>two for joy</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on A small blog</description>
+    <description>Recent content on two for joy</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 19:45:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 22:11:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finding an identity for this blog (and me)</title>
+      <link>http://localhost:1313/posts/identity/</link>
+      <pubDate>Tue, 16 Jun 2026 22:11:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/identity/</guid>
+      <description>&lt;h2 id=&#34;rats-cats-magpies&#34;&gt;Rats, cats, magpies&lt;/h2&gt;
+&lt;p&gt;Trying to define yourself online is a minefield. Even just picking a name feels impossible. Trying to find something that resonates with you is difficult, trying to find something that resonates but isn&amp;rsquo;t cringy is very difficult, and anything that fits that brief is guaranteed to be taken already. It&amp;rsquo;s a very annoying horrible venn diagram.&lt;br&gt;
+&lt;img alt=&#34;Venn Dia-agram&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/identity/venn.png&#34;&gt;
+I almost always come back to animals that I identify with. Cats, rats, and birds all appealed to me. Any and all attempts to fit these animals into a name failed miserably (see afformentioned horrible venn diagram).
+That being said, I feel good with what I&amp;rsquo;ve settled on. The second line from the magpie nursery rhyme &amp;ldquo;One for sorrow, Two for joy&amp;rdquo;. Magpies are definitely in my top 3 birds of all time, and their tendency to pick up shiny things is an accurate parallel to how I pick up new hobbies.
+I like the idea of a two headed magpie, one head is more reserved, sensible, maybe a bit gloomy. The other head is more eclectic, hopeful, maybe lacking common sense. One head finishes WIPS, the other starts new ones.  I&amp;rsquo;ll try an make a wee logo of them, it&amp;rsquo;ll be cute.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Why start this site</title>
       <link>http://localhost:1313/posts/why/</link>
@@ -37,19 +49,20 @@ Things still to do, questions still to answer:&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;Would I be better just writing a static site from scratch?
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Do I lose my posts in the process?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Maybe, I&amp;rsquo;m out growing the theme very quickly.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Do I lose my posts if I do that? Do I have to write my own MD parser???&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;What about Tags? How do they work?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;I&amp;rsquo;m going to add some important pages tonight, the things I started this site for, like &amp;ldquo;Favourite artists&amp;rdquo;. I might also write a post explaiing some of the more personal reasons I have for starting this site, we&amp;rsquo;ll see.&lt;/p&gt;</description>
+&lt;p&gt;I&amp;rsquo;m going to add some important pages tonight, the things I started this site for, like &amp;ldquo;Favourite artists&amp;rdquo;. I might also write a post explaining some of the more personal reasons I have for starting this site, we&amp;rsquo;ll see.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Inspirations</title>
       <link>http://localhost:1313/inspirations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/inspirations/</guid>
-      <description>&lt;p&gt;This page is too plain and grey to do these people justice, but to start with I wanted to put together a list of artists I find that have inspired me. Once this page is prettoer, it&amp;rsquo;ll feel more appropriate.&lt;/p&gt;
+      <description>&lt;p&gt;This page is too plain and grey to do these people justice, but to start with I wanted to put together a list of artists I find that have inspired me. Once this page is prettier, it&amp;rsquo;ll feel more appropriate.&lt;/p&gt;
 &lt;h3 id=&#34;alfred-valley&#34;&gt;Alfred Valley&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.hausofvalley.com/&#34;&gt;Hause of Valley&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://alfredvalley.itch.io/&#34;&gt;itch.io&lt;/a&gt;&lt;br&gt;
@@ -60,7 +73,12 @@ Things still to do, questions still to answer:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://nohr.se/&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;snow&#34;&gt;Snow&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.patreon.com/cw/snowttrpg&#34;&gt;Patreon&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://snowttrpg.itch.io/lilancholy&#34;&gt;itch.io&lt;/a&gt;&lt;/p&gt;</description>
+&lt;a href=&#34;https://snowttrpg.itch.io/lilancholy&#34;&gt;itch.io&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;ivan-belikov&#34;&gt;Ivan Belikov&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://ivanbelikov.com/&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;tania-herrero&#34;&gt;Tania Herrero&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://thebreadwyrm.com/&#34;&gt;Website&lt;/a&gt;
+&lt;a href=&#34;https://tania-herrero.itch.io/&#34;&gt;itch.io&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
