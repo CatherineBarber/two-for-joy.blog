@@ -1,0 +1,12 @@
+{{- $embedTrim := ( trim . " " | lower )}}
+<div class="embed">
+{{- if (eq $embedTrim "drowningstone") -}}
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=61606912/size=small/bgcol=333333/linkcol=2ebd35/transparent=true/" seamless><a href="https://chalicesofthepast.bandcamp.com/album/sleeping-in-a-drowning-stone-2">Sleeping In A Drowning Stone by Gus BC</a></iframe>
+{{- else if (eq $embedTrim "brutefort") -}}
+<iframe height="167" frameborder="0" src="https://itch.io/embed/4047735?dark=true" width="100%"><a href="https://alfredvalley.itch.io/brute-fort">Brute Fort by Alfred Valley</a></iframe>
+{{- else if (eq $embedTrim "songbirds") -}}
+<iframe height="167" frameborder="0" src="https://itch.io/embed/2133138?dark=true" width="100%"><a href="https://snowttrpg.itch.io/songbirds-3e">Songbirds by snow</a></iframe>
+{{- else if (eq $embedTrim "fomoria") -}}
+<iframe height="167" frameborder="0" src="https://itch.io/embed/4131113?dark=true" width="100%"><a href="https://tania-herrero.itch.io/fomoria-quickstart">Fomoria - Quickstart by Tania Herrero, Johan Nohr</a></iframe>
+{{- end -}}
+</div>

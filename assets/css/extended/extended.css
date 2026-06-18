@@ -8,3 +8,23 @@
   margin-right: auto;
   margin-left: auto;
 }
+
+.inspo-single {
+  margin-bottom: 2rem;
+  padding: 24px;
+}
+
+.artist-info {
+  padding-bottom: 16px;
+}
+
+.embed {
+  width: 100%;
+}
+
+.artist-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}

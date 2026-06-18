@@ -1,0 +1,25 @@
+{{- define "main" }}
+
+<article class="post-single">
+  <p>
+  This page is too plain and grey to do these people justice, but to start with I wanted to put together a list of artists I find that have inspired me. Once this page is prettier, it'll feel more appropriate.
+  </p>
+  {{- range site.Params.inspirationParams.artists}}
+  <div class="post-entry">
+    <div class="artist-info">
+      <div class="artist-header">
+        <header class="entry-header"><h2 class="entry-hint-parent">{{.name}}</h2></header>
+        {{ partial "artist_social_icons.html" (dict "icon_list" .socialIcons) }}
+      </div>
+      {{if eq .description ""}}{{else}}
+          <p>{{.description}}</p>
+      {{end}}
+    </div>
+    {{if eq .embed ""}}{{else}}
+      {{ partial "embeds.html" .embed}}
+    {{end}}
+  </div>
+  {{- end }}  
+</article>
+
+{{- end }}

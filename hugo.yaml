@@ -26,7 +26,60 @@ params:
         - name: Search
           url: search/
         - name: Tags
-          url: tags/
+    alignSocialIconsTo: right
+
+  inspirationParams:
+    artists:
+      - name: Alfred Valley
+        embed: brutefort
+        socialIcons:
+        - name: "Itchio"
+          url: "https://alfredvalley.itch.io/"
+        - name: "YouTube"
+          url: "https://www.youtube.com/@alfredvalley" 
+        - name: "Link"
+          url: "https://www.hausofvalley.com/" 
+
+      - name: Alex T
+        socialIcons:
+        - name: "Link"
+          url: "https://blackoathgames.com/"
+
+      - name: Gus BC
+        embed: "drowningStone"
+        socialIcons:
+        - name: "Bandcamp"
+          url: "https://chalicesofthepast.bandcamp.com/"
+
+      - name: Johan Nohr
+        description: Only the creator of one of the most highly praised OSR style games of all time, Mörk Borg. I had played D&D in uni before, but never warmed up to it. It wasn't until I saw Mörk Borg that the TTRPG bug really bit me. I have no words to describe Johans work, every thing he does is gold to me.
+        socialIcons:
+        - name: "Link"
+          url: "https://nohr.se/"
+
+      - name: Snow
+        embed: songbirds
+        socialIcons:
+        - name: "Patreon"
+          url: "https://www.patreon.com/cw/snowttrpg"
+        - name: "Itchio"
+          url: "https://snowttrpg.itch.io/lilancholy"
+
+      - name: Ivan Belikov
+        socialIcons:
+        - name: "Link"
+          url: "https://ivanbelikov.com/"
+
+      - name: Tania Herrero
+        embed: "fomoria"
+        socialIcons:
+        - name: "Link"
+          url: "https://thebreadwyrm.com/"
+        - name: "Itchio"
+          url: "https://tania-herrero.itch.io/"
+        - name: "Bluesky"
+          url: "@thebreadwyrm.bsky.social"
+
 
   ShowPostNavLinks: true
   ShowBreadCrumbs: true

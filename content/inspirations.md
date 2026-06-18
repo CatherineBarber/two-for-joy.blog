@@ -11,7 +11,7 @@ This page is too plain and grey to do these people justice, but to start with I 
 [itch.io](https://alfredvalley.itch.io/)  
 [YouTube](https://www.youtube.com/@alfredvalley) 
 
-### Gus BR
+### Gus BC
 [Bandcamp](https://chalicesofthepast.bandcamp.com/)  
 
 ### Johan Nohr
