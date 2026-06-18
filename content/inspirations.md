@@ -4,7 +4,7 @@ layout: "inspirations"
 url: "/inspirations/"
 ---
 
-This page is too plain and grey to do these people justice, but to start with I wanted to put together a list of artists I find that have inspired me. Once this page is prettier, it'll feel more appropriate.
+This page is too plain and grey to do these people justice, but we have to start somewhere. I wanted to put together a list of artists that have inspired me recently, and I'll add to it as we go. Once this page is prettier, it'll feel more appropriate.
 
 ### Alfred Valley 
 [Hause of Valley](https://www.hausofvalley.com/)  
