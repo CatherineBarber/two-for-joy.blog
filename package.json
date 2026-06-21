@@ -20,6 +20,7 @@
   "homepage": "https://github.com/CatherineBarber/smallcat.blog#readme",
   "dependencies": {
     "hugo": "^0.0.3",
-    "hugo-bin": "^0.149.2"
+    "hugo-bin": "^0.149.2",
+    "hugo-extended": "^0.163.2"
   }
 }
