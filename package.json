@@ -22,5 +22,8 @@
     "hugo": "^0.0.3",
     "hugo-bin": "^0.149.2",
     "hugo-extended": "^0.163.2"
+  },
+  "devDependencies": {
+    "hugo-installer": "^4.0.1"
   }
 }
