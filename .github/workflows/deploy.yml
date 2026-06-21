@@ -12,31 +12,38 @@ concurrency: # prevent concurrent deploys doing strange things
 
 jobs:
   deploy:
+    name: Build and deploy Hugo site
     runs-on: ubuntu-latest
-
     steps:
-    # The checkout step copies your repo into the action runner. Important!
-    - uses: actions/checkout@v6
-    # Set up any tools and build steps here
-    # This example uses a Node.js toolchain to build a site
-    # If you don't need Node.js to build your site, you can omit this.
-    - name: Use Node.js
-      uses: actions/setup-node@v6
-      with:
-        node-version: lts/*
-    # If you have a different build process, replace this with your own build steps
-    - name: Install and Build
-      run: |
-        npm i
-        npx hugo-installer --version 0.163.3
-        bin/hugo/hugo build -b https://two-for-joy.neocities.org
-    # When the dist_dir is ready, deploy it to neocities
-    # Here we deploy the folder named `public`
-    - name: Deploy to neocities
-      uses: bcomnes/deploy-to-neocities@v3
-      with:
-        api_key: ${{ secrets.NEOCITIES_API_TOKEN }}
-        cleanup: false
-        neocities_supporter: false # set this to true if you have a supporter account and want to bypass unsuported files filter.
-        preview_before_deploy: true # print a deployment plan prior to waiting for files to upload.
-        dist_dir: public
+      # Install Hugo in the runner
+      - name: Hugo setup
+        uses: peaceiris/actions-hugo@v2.6.0
+        with:
+          hugo-version: '0.121.1'
+          extended: true
+      # Check out the source for the site
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+      # Build the site with Hugo
+      - name: Build with Hugo
+        run: hugo --minify
+      # Copy my custom 404 page to not_found.html so it
+      # will be picked up by Neocities
+      - name: Insert 404 page
+        run: |
+          cp public/404/index.html public/not_found.html
+      # Highlight code blocks with the Torchlight CLI
+      - name: Highlight with Torchlight
+        run: |
+          npm i @torchlight-api/torchlight-cli
+          npx torchlight
+      # Push the rendered site to Neocities and
+      # clean up any orphaned files
+      - name: Deploy to Neocities
+        uses: bcomnes/deploy-to-neocities@v1
+        with:
+          api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
+          cleanup: true
+          dist_dir: public
