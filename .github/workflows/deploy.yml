@@ -29,7 +29,7 @@ jobs:
       run: |
         npm i
         npx hugo-installer --version 0.163.3
-        bin/hugo build -b https://two-for-joy.neocities.org
+        bin/hugo/hugo build -b https://two-for-joy.neocities.org
     # When the dist_dir is ready, deploy it to neocities
     # Here we deploy the folder named `public`
     - name: Deploy to neocities
