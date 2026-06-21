@@ -1,62 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>two for joy</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on two for joy</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2026 23:00:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Trying some pixel art</title>
-      <link>http://localhost:1313/posts/pixels/</link>
-      <pubDate>Sat, 20 Jun 2026 23:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/pixels/</guid>
-      <description>&lt;h2 id=&#34;im-not-sure-i-like-pixel-art&#34;&gt;I&amp;rsquo;m not sure I like pixel art&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>two for joy</title><link>https://catherinebarber.github.io/</link><description>Recent content on two for joy</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 20 Jun 2026 23:00:00 +0100</lastBuildDate><atom:link href="https://catherinebarber.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Trying some pixel art</title><link>https://catherinebarber.github.io/posts/pixels/</link><pubDate>Sat, 20 Jun 2026 23:00:00 +0100</pubDate><guid>https://catherinebarber.github.io/posts/pixels/</guid><description>&lt;h2 id="im-not-sure-i-like-pixel-art"&gt;I&amp;rsquo;m not sure I like pixel art&lt;/h2&gt;
 &lt;p&gt;Or rather, I like looking at it, but find it infuriating to make. I&amp;rsquo;ll keep trying to see if I can get more into it, but for now I&amp;rsquo;ve made a little campfire for the home page. I&amp;rsquo;m quite proud of it, all things considered. I can&amp;rsquo;t imagine making a whole website of pixel art, I&amp;rsquo;d legit loose it.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;pixel_campfire&#34; loading=&#34;lazy&#34; src=&#34;campfire.gif&#34;&gt;&lt;/p&gt;
-&lt;p&gt;I also found a neat CRT effect on &lt;a href=&#34;https://aleclownes.com/2017/02/01/crt-display.html&#34;&gt;this site&lt;/a&gt;. I&amp;rsquo;m going to try and apply to the campfire and see if it&amp;rsquo;s better looking?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A New Mascot</title>
-      <link>http://localhost:1313/posts/mascot/</link>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mascot/</guid>
-      <description>&lt;h3 id=&#34;my-boi&#34;&gt;My Boi&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="pixel_campfire" loading="lazy" src="campfire.gif"&gt;&lt;/p&gt;
+&lt;p&gt;I also found a neat CRT effect on &lt;a href="https://aleclownes.com/2017/02/01/crt-display.html"&gt;this site&lt;/a&gt;. I&amp;rsquo;m going to try and apply to the campfire and see if it&amp;rsquo;s better looking?&lt;/p&gt;</description></item><item><title>A New Mascot</title><link>https://catherinebarber.github.io/posts/mascot/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://catherinebarber.github.io/posts/mascot/</guid><description>&lt;h3 id="my-boi"&gt;My Boi&lt;/h3&gt;
 &lt;p&gt;I started sketching a mascot / logo kind of thing. There&amp;rsquo;s lots of magpies in my area so I have loads of reference photos. This cutie has a little white dot next to their eye.&lt;br&gt;
-&lt;img alt=&#34;Magpie from the side&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/mascot/magpie-cleaned.jpg&#34;&gt;
-&lt;img alt=&#34;Magpie from the front&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/mascot/magpie2-cleaned.jpg&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;the-sketches&#34;&gt;The sketches&lt;/h3&gt;
-&lt;p&gt;I&amp;rsquo;ve kept the white dot and used the pics I took as a ref for the pose. I thought it would be neat if I could generally fit them into a sort of square shape? Like it might make it easier to create a logo if the dimensions are regular. It almost works, and if you fill the top left corner with an icon it fits nicely (moon / start / sun / &amp;lsquo;TFJ&amp;rsquo; could all work).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Finding an identity for this blog (and me)</title>
-      <link>http://localhost:1313/posts/identity/</link>
-      <pubDate>Tue, 16 Jun 2026 22:11:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/identity/</guid>
-      <description>&lt;h2 id=&#34;rats-cats-magpies&#34;&gt;Rats, cats, magpies&lt;/h2&gt;
+&lt;img alt="Magpie from the side" loading="lazy" src="https://catherinebarber.github.io/posts/mascot/magpie-cleaned.jpg"&gt;
+&lt;img alt="Magpie from the front" loading="lazy" src="https://catherinebarber.github.io/posts/mascot/magpie2-cleaned.jpg"&gt;&lt;/p&gt;
+&lt;h3 id="the-sketches"&gt;The sketches&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;ve kept the white dot and used the pics I took as a ref for the pose. I thought it would be neat if I could generally fit them into a sort of square shape? Like it might make it easier to create a logo if the dimensions are regular. It almost works, and if you fill the top left corner with an icon it fits nicely (moon / start / sun / &amp;lsquo;TFJ&amp;rsquo; could all work).&lt;/p&gt;</description></item><item><title>Finding an identity for this blog (and me)</title><link>https://catherinebarber.github.io/posts/identity/</link><pubDate>Tue, 16 Jun 2026 22:11:00 +0100</pubDate><guid>https://catherinebarber.github.io/posts/identity/</guid><description>&lt;h2 id="rats-cats-magpies"&gt;Rats, cats, magpies&lt;/h2&gt;
 &lt;p&gt;Trying to define yourself online is a minefield. Even just picking a name feels impossible. Trying to find something that resonates with you is difficult, trying to find something that resonates but isn&amp;rsquo;t cringy is very difficult, and anything that fits that brief is guaranteed to be taken already. It&amp;rsquo;s a very annoying horrible venn diagram.&lt;br&gt;
-&lt;img alt=&#34;Venn Dia-agram&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/identity/venn.png&#34;&gt;
+&lt;img alt="Venn Dia-agram" loading="lazy" src="https://catherinebarber.github.io/posts/identity/venn.png"&gt;
 I almost always come back to animals that I identify with. Cats, rats, and birds all appealed to me. Yet all attempts to fit these animals into a name failed miserably (see afformentioned horrible venn diagram).
 That being said, I feel good with what I&amp;rsquo;ve settled on. The second line from the magpie nursery rhyme &amp;ldquo;One for sorrow, Two for joy&amp;rdquo;. Magpies are definitely in my top 3 birds of all time, and their tendency to pick up shiny things is an accurate parallel to how I pick up new hobbies.
-I like the idea of a two headed magpie, one head is more reserved, sensible, maybe a bit gloomy. The other head is more eclectic, hopeful, maybe lacking common sense. One head finishes WIPS, the other starts new ones.  I&amp;rsquo;ll try an make a wee logo of them, it&amp;rsquo;ll be cute.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why start this site</title>
-      <link>http://localhost:1313/posts/why/</link>
-      <pubDate>Mon, 15 Jun 2026 19:45:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/why/</guid>
-      <description>&lt;h2 id=&#34;where-else-can-i-go&#34;&gt;Where else can I go?&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;ve always found the wider social media landscape a bit intimidating. I was too young for MSN, never warmed up to facebook, snapchat, insta or whatever came after. I liked  youtube, reddit, and discord, where I could enguage in hobby communities without wondering if my family would stumble across a comment I&amp;rsquo;d written. I never considered myself a heavy social media user.&lt;/p&gt;
-&lt;p&gt;And yet as we come to the halfway point of 2026, the UK faces wide sweeping changes to the social media world. A flat ban for under 16 year olds and, consequently, a requirement to &lt;em&gt;prove&lt;/em&gt; that you&amp;rsquo;re over 16. Given I am not prepared to dish out my government ID to any backwater data broker on the net, I will be using a VPN for as long as that remains an option, and dipping out entirely otherwise. It made me think about how such an important commodity has come to rest in the hands of some of the greediest, most irresponsible people in our society. Big Tech holds the keys to so much of our lives, and our governments have done a historically shit job of protecting us from the greed and irresponsibility of these corporate giants.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/hellossworld/</link>
-      <pubDate>Mon, 15 Jun 2026 19:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/hellossworld/</guid>
-      <description>&lt;p&gt;Forgive the boring title, but that&amp;rsquo;s exactly what this is. I have the theme up and running and the posts are working as well.
+I like the idea of a two headed magpie, one head is more reserved, sensible, maybe a bit gloomy. The other head is more eclectic, hopeful, maybe lacking common sense. One head finishes WIPS, the other starts new ones. I&amp;rsquo;ll try an make a wee logo of them, it&amp;rsquo;ll be cute.&lt;/p&gt;</description></item><item><title>Why start this site</title><link>https://catherinebarber.github.io/posts/why/</link><pubDate>Mon, 15 Jun 2026 19:45:00 +0100</pubDate><guid>https://catherinebarber.github.io/posts/why/</guid><description>&lt;h2 id="where-else-can-i-go"&gt;Where else can I go?&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve always found the wider social media landscape a bit intimidating. I was too young for MSN, never warmed up to facebook, snapchat, insta or whatever came after. I liked youtube, reddit, and discord, where I could enguage in hobby communities without wondering if my family would stumble across a comment I&amp;rsquo;d written. I never considered myself a heavy social media user.&lt;/p&gt;
+&lt;p&gt;And yet as we come to the halfway point of 2026, the UK faces wide sweeping changes to the social media world. A flat ban for under 16 year olds and, consequently, a requirement to &lt;em&gt;prove&lt;/em&gt; that you&amp;rsquo;re over 16. Given I am not prepared to dish out my government ID to any backwater data broker on the net, I will be using a VPN for as long as that remains an option, and dipping out entirely otherwise. It made me think about how such an important commodity has come to rest in the hands of some of the greediest, most irresponsible people in our society. Big Tech holds the keys to so much of our lives, and our governments have done a historically shit job of protecting us from the greed and irresponsibility of these corporate giants.&lt;/p&gt;</description></item><item><title>Hello World</title><link>https://catherinebarber.github.io/posts/hellossworld/</link><pubDate>Mon, 15 Jun 2026 19:00:00 +0100</pubDate><guid>https://catherinebarber.github.io/posts/hellossworld/</guid><description>&lt;p&gt;Forgive the boring title, but that&amp;rsquo;s exactly what this is. I have the theme up and running and the posts are working as well.
 Things still to do, questions still to answer:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;How do I add those side buttons for archive and tags?
@@ -77,30 +34,20 @@ Things still to do, questions still to answer:&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;What about Tags? How do they work?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;I&amp;rsquo;m going to add some important pages tonight, the things I started this site for, like &amp;ldquo;Favourite artists&amp;rdquo;. I might also write a post explaining some of the more personal reasons I have for starting this site, we&amp;rsquo;ll see.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Inspirations</title>
-      <link>http://localhost:1313/inspirations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/inspirations/</guid>
-      <description>&lt;p&gt;This page is too plain and grey to do these people justice, but we have to start somewhere. I wanted to put together a list of artists that have inspired me recently, and I&amp;rsquo;ll add to it as we go. Once this page is prettier, it&amp;rsquo;ll feel more appropriate.&lt;/p&gt;
-&lt;h3 id=&#34;alfred-valley&#34;&gt;Alfred Valley&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.hausofvalley.com/&#34;&gt;Hause of Valley&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://alfredvalley.itch.io/&#34;&gt;itch.io&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://www.youtube.com/@alfredvalley&#34;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;gus-bc&#34;&gt;Gus BC&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://chalicesofthepast.bandcamp.com/&#34;&gt;Bandcamp&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;johan-nohr&#34;&gt;Johan Nohr&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://nohr.se/&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;snow&#34;&gt;Snow&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.patreon.com/cw/snowttrpg&#34;&gt;Patreon&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://snowttrpg.itch.io/lilancholy&#34;&gt;itch.io&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;ivan-belikov&#34;&gt;Ivan Belikov&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://ivanbelikov.com/&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;tania-herrero&#34;&gt;Tania Herrero&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://thebreadwyrm.com/&#34;&gt;Website&lt;/a&gt;
-&lt;a href=&#34;https://tania-herrero.itch.io/&#34;&gt;itch.io&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;p&gt;I&amp;rsquo;m going to add some important pages tonight, the things I started this site for, like &amp;ldquo;Favourite artists&amp;rdquo;. I might also write a post explaining some of the more personal reasons I have for starting this site, we&amp;rsquo;ll see.&lt;/p&gt;</description></item><item><title>Inspirations</title><link>https://catherinebarber.github.io/inspirations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://catherinebarber.github.io/inspirations/</guid><description>&lt;p&gt;This page is too plain and grey to do these people justice, but we have to start somewhere. I wanted to put together a list of artists that have inspired me recently, and I&amp;rsquo;ll add to it as we go. Once this page is prettier, it&amp;rsquo;ll feel more appropriate.&lt;/p&gt;
+&lt;h3 id="alfred-valley"&gt;Alfred Valley&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.hausofvalley.com/"&gt;Hause of Valley&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://alfredvalley.itch.io/"&gt;itch.io&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://www.youtube.com/@alfredvalley"&gt;YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="gus-bc"&gt;Gus BC&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://chalicesofthepast.bandcamp.com/"&gt;Bandcamp&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="johan-nohr"&gt;Johan Nohr&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://nohr.se/"&gt;Website&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="snow"&gt;Snow&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.patreon.com/cw/snowttrpg"&gt;Patreon&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://snowttrpg.itch.io/lilancholy"&gt;itch.io&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="ivan-belikov"&gt;Ivan Belikov&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://ivanbelikov.com/"&gt;Website&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="tania-herrero"&gt;Tania Herrero&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://thebreadwyrm.com/"&gt;Website&lt;/a&gt;
+&lt;a href="https://tania-herrero.itch.io/"&gt;itch.io&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
