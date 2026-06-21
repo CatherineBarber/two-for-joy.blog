@@ -1,4 +1,4 @@
-baseURL: "https://catherinebarber.github.io"
+baseURL: "https://two-for-joy.neocities.org/"
 title: two for joy
 paginate: 5
 theme: PaperMod
@@ -19,13 +19,13 @@ params:
     Title: Haha, how did you even find this site??
     Content: Well, come on in anyway and take a place by the fire. This place is very much under construction, so don't judge it too harshly <3
     majorButtons:
-        - name: About
-          url: about/
-        - name: Inspirations
-          url: inspirations/
-        - name: Search
-          url: search/
-        - name: Tags
+      - name: About
+        url: about/
+      - name: Inspirations
+        url: inspirations/
+      - name: Search
+        url: search/
+      - name: Tags
     alignSocialIconsTo: right
 
   inspirationParams:
@@ -98,20 +98,6 @@ languages:
       category: categories
       tag: tags
       series: series
-    menu:
-      main:
-        - name: About
-          url: about
-          weight: 1
-        - name: Archive
-          url: archives
-          weight: 2
-        - name: Search
-          url: search/
-          weight: 2
-        - name: Tags
-          url: tags/
-          weight: 4
 
 
 outputs:
