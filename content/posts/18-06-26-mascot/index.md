@@ -6,7 +6,7 @@ slug = 'mascot'
 +++
 
 ### My Boi
-I started sketching a mascot / logo kind of thing. There's lots of magpues in my area so I have loads of reference photos. This cutie has a little white dot next to their eye.  
+I started sketching a mascot / logo kind of thing. There's lots of magpies in my area so I have loads of reference photos. This cutie has a little white dot next to their eye.  
 ![Magpie from the side](magpie-cleaned.jpg)
 ![Magpie from the front](magpie2-cleaned.jpg)  
 

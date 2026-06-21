@@ -2,50 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on two for joy</title>
-    <link>https://two-for-joy.neocities.org/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on two for joy</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://two-for-joy.neocities.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Jun 2026 23:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trying some pixel art</title>
+      <link>http://localhost:1313/posts/pixels/</link>
+      <pubDate>Sat, 20 Jun 2026 23:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/pixels/</guid>
+      <description>&lt;h2 id=&#34;im-not-sure-i-like-pixel-art&#34;&gt;I&amp;rsquo;m not sure I like pixel art&lt;/h2&gt;
+&lt;p&gt;Or rather, I like looking at it, but find it infuriating to make. I&amp;rsquo;ll keep trying to see if I can get more into it, but for now I&amp;rsquo;ve made a little campfire for the home page. I&amp;rsquo;m quite proud of it, all things considered. I can&amp;rsquo;t imagine making a whole website of pixel art, I&amp;rsquo;d legit loose it.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;pixel_campfire&#34; loading=&#34;lazy&#34; src=&#34;campfire.gif&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I also found a neat CRT effect on &lt;a href=&#34;https://aleclownes.com/2017/02/01/crt-display.html&#34;&gt;this site&lt;/a&gt;. I&amp;rsquo;m going to try and apply to the campfire and see if it&amp;rsquo;s better looking?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A New Mascot</title>
-      <link>https://two-for-joy.neocities.org/posts/mascot/</link>
+      <link>http://localhost:1313/posts/mascot/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://two-for-joy.neocities.org/posts/mascot/</guid>
+      <guid>http://localhost:1313/posts/mascot/</guid>
       <description>&lt;h3 id=&#34;my-boi&#34;&gt;My Boi&lt;/h3&gt;
 &lt;p&gt;I started sketching a mascot / logo kind of thing. There&amp;rsquo;s lots of magpues in my area so I have loads of reference photos. This cutie has a little white dot next to their eye.&lt;br&gt;
-&lt;img alt=&#34;Magpie from the side&#34; loading=&#34;lazy&#34; src=&#34;https://two-for-joy.neocities.org/posts/mascot/magpie-cleaned.jpg&#34;&gt;
-&lt;img alt=&#34;Magpie from the front&#34; loading=&#34;lazy&#34; src=&#34;https://two-for-joy.neocities.org/posts/mascot/magpie2-cleaned.jpg&#34;&gt;&lt;/p&gt;
+&lt;img alt=&#34;Magpie from the side&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/mascot/magpie-cleaned.jpg&#34;&gt;
+&lt;img alt=&#34;Magpie from the front&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/mascot/magpie2-cleaned.jpg&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;the-sketches&#34;&gt;The sketches&lt;/h3&gt;
 &lt;p&gt;I&amp;rsquo;ve kept the white dot and used the pics I took as a ref for the pose. I thought it would be neat if I could generally fit them into a sort of square shape? Like it might make it easier to create a logo if the dimensions are regular. It almost works, and if you fill the top left corner with an icon it fits nicely (moon / start / sun / &amp;lsquo;TFJ&amp;rsquo; could all work).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Finding an identity for this blog (and me)</title>
-      <link>https://two-for-joy.neocities.org/posts/identity/</link>
+      <link>http://localhost:1313/posts/identity/</link>
       <pubDate>Tue, 16 Jun 2026 22:11:00 +0100</pubDate>
-      <guid>https://two-for-joy.neocities.org/posts/identity/</guid>
+      <guid>http://localhost:1313/posts/identity/</guid>
       <description>&lt;h2 id=&#34;rats-cats-magpies&#34;&gt;Rats, cats, magpies&lt;/h2&gt;
 &lt;p&gt;Trying to define yourself online is a minefield. Even just picking a name feels impossible. Trying to find something that resonates with you is difficult, trying to find something that resonates but isn&amp;rsquo;t cringy is very difficult, and anything that fits that brief is guaranteed to be taken already. It&amp;rsquo;s a very annoying horrible venn diagram.&lt;br&gt;
-&lt;img alt=&#34;Venn Dia-agram&#34; loading=&#34;lazy&#34; src=&#34;https://two-for-joy.neocities.org/posts/identity/venn.png&#34;&gt;
+&lt;img alt=&#34;Venn Dia-agram&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/identity/venn.png&#34;&gt;
 I almost always come back to animals that I identify with. Cats, rats, and birds all appealed to me. Yet all attempts to fit these animals into a name failed miserably (see afformentioned horrible venn diagram).
 That being said, I feel good with what I&amp;rsquo;ve settled on. The second line from the magpie nursery rhyme &amp;ldquo;One for sorrow, Two for joy&amp;rdquo;. Magpies are definitely in my top 3 birds of all time, and their tendency to pick up shiny things is an accurate parallel to how I pick up new hobbies.
 I like the idea of a two headed magpie, one head is more reserved, sensible, maybe a bit gloomy. The other head is more eclectic, hopeful, maybe lacking common sense. One head finishes WIPS, the other starts new ones.  I&amp;rsquo;ll try an make a wee logo of them, it&amp;rsquo;ll be cute.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why start this site</title>
-      <link>https://two-for-joy.neocities.org/posts/why/</link>
+      <link>http://localhost:1313/posts/why/</link>
       <pubDate>Mon, 15 Jun 2026 19:45:00 +0100</pubDate>
-      <guid>https://two-for-joy.neocities.org/posts/why/</guid>
+      <guid>http://localhost:1313/posts/why/</guid>
       <description>&lt;h2 id=&#34;where-else-can-i-go&#34;&gt;Where else can I go?&lt;/h2&gt;
 &lt;p&gt;I&amp;rsquo;ve always found the wider social media landscape a bit intimidating. I was too young for MSN, never warmed up to facebook, snapchat, insta or whatever came after. I liked  youtube, reddit, and discord, where I could enguage in hobby communities without wondering if my family would stumble across a comment I&amp;rsquo;d written. I never considered myself a heavy social media user.&lt;/p&gt;
 &lt;p&gt;And yet as we come to the halfway point of 2026, the UK faces wide sweeping changes to the social media world. A flat ban for under 16 year olds and, consequently, a requirement to &lt;em&gt;prove&lt;/em&gt; that you&amp;rsquo;re over 16. Given I am not prepared to dish out my government ID to any backwater data broker on the net, I will be using a VPN for as long as that remains an option, and dipping out entirely otherwise. It made me think about how such an important commodity has come to rest in the hands of some of the greediest, most irresponsible people in our society. Big Tech holds the keys to so much of our lives, and our governments have done a historically shit job of protecting us from the greed and irresponsibility of these corporate giants.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello World</title>
-      <link>https://two-for-joy.neocities.org/posts/hellossworld/</link>
+      <link>http://localhost:1313/posts/hellossworld/</link>
       <pubDate>Mon, 15 Jun 2026 19:00:00 +0100</pubDate>
-      <guid>https://two-for-joy.neocities.org/posts/hellossworld/</guid>
+      <guid>http://localhost:1313/posts/hellossworld/</guid>
       <description>&lt;p&gt;Forgive the boring title, but that&amp;rsquo;s exactly what this is. I have the theme up and running and the posts are working as well.
 Things still to do, questions still to answer:&lt;/p&gt;
 &lt;ul&gt;
@@ -68,16 +78,6 @@ Things still to do, questions still to answer:&lt;/p&gt;
 &lt;li&gt;What about Tags? How do they work?&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I&amp;rsquo;m going to add some important pages tonight, the things I started this site for, like &amp;ldquo;Favourite artists&amp;rdquo;. I might also write a post explaining some of the more personal reasons I have for starting this site, we&amp;rsquo;ll see.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Trying some pixel art</title>
-      <link>https://two-for-joy.neocities.org/posts/20-06-26-pixels/pixels/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://two-for-joy.neocities.org/posts/20-06-26-pixels/pixels/</guid>
-      <description>&lt;h2 id=&#34;im-not-sure-i-like-pixel-art&#34;&gt;I&amp;rsquo;m not sure I like pixel art&lt;/h2&gt;
-&lt;p&gt;Or rather, I like looking at it, but find it infuriating to make. I&amp;rsquo;ll keep trying to see if I can get more into it, but for now I&amp;rsquo;ve made a little campfire for the home page. I&amp;rsquo;m quite proud of it, all things considered. I can&amp;rsquo;t imagine making a whole website of pixel art, I&amp;rsquo;d legit loose it.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;pixel_campfire&#34; loading=&#34;lazy&#34; src=&#34;campfire.gif&#34;&gt;&lt;/p&gt;
-&lt;p&gt;I also found a neat CRT effect on &lt;a href=&#34;https://aleclownes.com/2017/02/01/crt-display.html&#34;&gt;this site&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

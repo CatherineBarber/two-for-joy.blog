@@ -28,3 +28,25 @@
   align-items: center;
   justify-content: space-between;
 }
+
+.pixel-img {
+  image-rendering: pixelated;
+}
+
+.entry-header {
+  font-family: "IM Fell English", serif;
+  text-align: center;
+}
+
+.post-header {
+  font-family: "IM Fell English", serif;
+}
+
+.post-content h1 {
+  font-family: "IM Fell English", serif;
+}
+
+.post-content h2 {
+  font-family: "IM Fell English", serif;
+}
+

@@ -17,7 +17,7 @@ params:
   defaultTheme: dark
   homeInfoParams:
     Title: Haha, how did you even find this site?? 
-    Content: Well, come on in anyway. It's very much under construction, so don't judge it too harshly <3
+    Content: Well, come on in anyway and take a place by the fire. This place is very much under construction, so don't judge it too harshly <3
     majorButtons:
         - name: About
           url: about/

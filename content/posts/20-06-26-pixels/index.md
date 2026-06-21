@@ -1,5 +1,5 @@
 +++
-date = '2026-06-20T123:00:00+01:00'
+date = '2026-06-20T23:00:00+01:00'
 draft = false
 title = 'Trying some pixel art'
 slug = 'pixels'
@@ -10,4 +10,4 @@ Or rather, I like looking at it, but find it infuriating to make. I'll keep tryi
 
 ![pixel_campfire](campfire.gif)
 
-I also found a neat CRT effect on [this site](https://aleclownes.com/2017/02/01/crt-display.html).
+I also found a neat CRT effect on [this site](https://aleclownes.com/2017/02/01/crt-display.html). I'm going to try and apply to the campfire and see if it's better looking?

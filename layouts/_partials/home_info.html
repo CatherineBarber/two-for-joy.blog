@@ -6,6 +6,7 @@
     <div class="entry-content md-content">
         {{ $opts := dict "display" "block" }}
         {{ .Content | $.Page.RenderString $opts }}
+        <img class="pixel-img" width="240" height="240" alt="pixel_campfire" loading="lazy" src="campfire.gif">
         <div class="grid-container">
             {{- range .majorButtons}}
             <article class="post-entry">
