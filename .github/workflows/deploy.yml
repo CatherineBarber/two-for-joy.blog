@@ -29,11 +29,6 @@ jobs:
       # Build the site with Hugo
       - name: Build with Hugo
         run: hugo --minify
-      # Copy my custom 404 page to not_found.html so it
-      # will be picked up by Neocities
-      - name: Insert 404 page
-        run: |
-          cp public/404/index.html public/not_found.html
       # Highlight code blocks with the Torchlight CLI
       - name: Highlight with Torchlight
         run: |
