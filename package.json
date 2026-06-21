@@ -1,0 +1,24 @@
+{
+  "name": "smallcat.blog",
+  "version": "1.0.0",
+  "description": "HELLO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CatherineBarber/smallcat.blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CatherineBarber/smallcat.blog/issues"
+  },
+  "homepage": "https://github.com/CatherineBarber/smallcat.blog#readme",
+  "dependencies": {
+    "hugo-bin": "^0.149.2"
+  }
+}
