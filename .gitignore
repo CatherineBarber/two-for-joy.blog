@@ -5,6 +5,8 @@ Contact
 dfg
 Node.gitignore
 
+public/*
+
 # Created by https://gitignore.org
 # Node.gitignore
 
