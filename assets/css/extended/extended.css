@@ -50,10 +50,18 @@
   font-family: "IM Fell English", serif;
 }
 
+.home-header{
+  font-family: "Jacquard 12", serif;
+  font-size: 36px;
+}
+
 .logo a {
   font-family: "Jacquard 12", serif;
+  font-size: 40px;
 }
 .logo img {
   padding: 8px;
+  width: 48px;
+  height: 48px;
 }
 
