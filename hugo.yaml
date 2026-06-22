@@ -15,6 +15,10 @@ markup:
 
 params:
   defaultTheme: dark
+  label:
+    darkModeIcon: logoD3.png
+    lightModeIcon: logoL3.png
+    iconHeight: 64
   homeInfoParams:
     Title: Haha, how did you even find this site??
     Content: Well, come on in anyway and take a place by the fire. This place is very much under construction, so don't judge it too harshly <3
@@ -40,10 +44,12 @@ params:
         - name: "Link"
           url: "https://www.hausofvalley.com/" 
 
-      - name: Alex T
+      - name: Man Alone
+        description: A combination of solo games and philosophy wrapped up in a guy that waffles a lot. Probably the channel thats meant the most to me personally. Help him in his fight against optimisation.
+        embed: malone
         socialIcons:
-        - name: "Link"
-          url: "https://blackoathgames.com/"
+        - name: "YouTube"
+          url: "https://www.youtube.com/@amanisalone"
 
       - name: Gus BC
         embed: "drowningStone"
@@ -80,6 +86,29 @@ params:
         - name: "Bluesky"
           url: "@thebreadwyrm.bsky.social"
 
+      - name: WolfSkullJack
+        socialIcons:
+        - name: "Link"
+          url: "https://wolfskulljack.com/"
+        - name: "Patreon"
+          url: "https://www.patreon.com/wolfskulljack/home"
+
+      - name: Plastiboo
+        socialIcons:
+        - name: "Link"
+          url: "https://hollow-press.net/collections/plastiboo"
+        - name: "Tumblr"
+          url: "https://plastiboo.tumblr.com/"
+
+      - name: Watt
+        socialIcons:
+        - name: "Link"
+          url: "https://cloudempress.com/"
+          
+      - name: Johan Egerkrans
+        socialIcons:
+        - name: "Link"
+          url: "https://www.johanegerkrans.com/"
 
   ShowPostNavLinks: true
   ShowBreadCrumbs: true

@@ -50,3 +50,10 @@
   font-family: "IM Fell English", serif;
 }
 
+.logo a {
+  font-family: "Jacquard 12", serif;
+}
+.logo img {
+  padding: 8px;
+}
+
