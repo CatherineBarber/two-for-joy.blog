@@ -1,0 +1,64 @@
+/* CSS HEX */
+
+
+:root {
+    --gap: 24px;
+    --content-gap: 20px;
+    --nav-width: 1024px;
+    --main-width: 720px;
+    --header-height: 60px;
+    --footer-height: 60px;
+    --radius: 8px;
+
+    --dark-900: #161316ff;
+    --dark-800: #211C21ff;
+    --dark-700: #372F37ff;
+
+    --neutrals-100: #ecebe4ff;
+    --neutrals-200: #dddbcfff;
+    --neutrals-300: #cac8b9ff;
+    --neutrals-800: #333028ff;
+    --neutrals-900: #1a1914ff;
+
+    --sage-400: #b5b192ff;
+    --sage-700: #6f6b49ff;
+
+    --violet-700: #372837ff;
+
+    --teal-400: #47b9beff;
+    --teal-500: #0b575bff;
+    --teal-700: #1e9da3ff;
+
+    --theme: var(--neutrals-100);
+    --entry: var(--neutrals-100);
+    --primary: var(--neutrals-800);
+    --secondary: var(--neutrals-800);
+    --tertiary: var(--dark-teal);
+    --border: var(--neutrals-800);
+    --code-block-bg: var(--neutrals-900);
+    --code-bg: var(--neutrals-200);
+    --border: var(--neutrals-300);
+    color-scheme: light;
+}
+
+:root[data-theme="dark"] {
+    --theme: var(--dark-900);
+    --entry: var(--dark-700);
+    --primary: var(--neutrals-100);
+    --secondary: var(--neutrals-200);
+    --tertiary: var(--midnight-violet);
+    --content: var(--neutrals-200);
+    --code-block-bg: var(--dark-800);
+    --code-bg: var(--dark-700);
+    --border: var(--dark-800);
+    color-scheme: dark;
+}
+
+
+.list {
+    background: var(--code-bg);
+}
+
+[data-theme="dark"] .list {
+    background: var(--theme);
+}
