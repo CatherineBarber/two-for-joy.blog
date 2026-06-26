@@ -10,47 +10,57 @@
     --footer-height: 60px;
     --radius: 8px;
 
-    --dark-900: #161316ff;
-    --dark-800: #211C21ff;
-    --dark-700: #372F37ff;
-
     --neutrals-100: #ecebe4ff;
     --neutrals-200: #dddbcfff;
     --neutrals-300: #cac8b9ff;
+    --neutrals-400: #B2afa0ff;
+    --neutrals-500: #938f7eff;
+    --neutrals-600: #726f5eff;
+    --neutrals-700: #524f41ff;
     --neutrals-800: #333028ff;
     --neutrals-900: #1a1914ff;
 
-    --sage-400: #b5b192ff;
-    --sage-700: #6f6b49ff;
+    --sage-100: #E3E5DCff;
+    --sage-200: #D0D4C4ff;
+    --sage-300: #BEC2ADff;
+    --sage-400: #A2A88Aff;
+    --sage-500: #89936Cff;
+    --sage-700: #585E45ff;
+    --sage-900: #22231Aff;
 
-    --violet-700: #372837ff;
+    --lavender-300: #AB96B0ff;
+    --lavender-500: #836889ff;
+    --lavender-700: #4e435bff;
 
-    --teal-400: #47b9beff;
-    --teal-500: #0b575bff;
-    --teal-700: #1e9da3ff;
+    --blue-200: #99D6EBff;
+    --blue-300: #29A3CCff;
+    --blue-500: #33AED7ff;
+    --blue-700: #114355ff;
+    --blue-800: #26393Eff;
+    --blue-900: #192326ff;
 
     --theme: var(--neutrals-100);
     --entry: var(--neutrals-200);
     --primary: var(--neutrals-800);
     --secondary: var(--neutrals-800);
-    --tertiary: var(--dark-teal);
+    --tertiary: var(--blue-500);
     --border: var(--neutrals-800);
     --code-block-bg: var(--neutrals-900);
-    --code-bg: var(--neutrals-200);
-    --border: var(--neutrals-300);
+    --code-bg: var(--neutrals-300);
+    --border: var(--neutrals-400);
     color-scheme: light;
 }
 
 :root[data-theme="dark"] {
-    --theme: var(--dark-900);
-    --entry: var(--dark-700);
+    --theme: var(--neutrals-900);
+    --entry: var(--neutrals-700);
     --primary: var(--neutrals-200);
     --secondary: var(--neutrals-200);
-    --tertiary: var(--midnight-violet);
+    --tertiary: var(--blue-500);
     --content: var(--neutrals-200);
-    --code-block-bg: var(--dark-800);
-    --code-bg: var(--dark-700);
-    --border: var(--dark-800);
+    --code-block-bg: var(--neutrals-800);
+    --code-bg: var(--neutrals-700);
+    --border: var(--neutrals-800);
     color-scheme: dark;
 }
 

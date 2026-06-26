@@ -84,10 +84,6 @@
 }
 
 .social-icons a{
-  color: var(--teal-700);
-}
-
-.social-icons a[data-theme="dark"]{
-  color: var(--teal-400);
+  color: var(--tertiary);
 }
 
