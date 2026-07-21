@@ -18,7 +18,7 @@
 
 {{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`) (eq .Layout `inspirations`)) }}
 <body class="list" id="top">
-{{- else }}
+        {{- else }}
 <body id="top">
 {{- end }}
     {{ partialCached "header.html" . .Page -}}
