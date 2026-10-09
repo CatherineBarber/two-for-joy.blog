@@ -11,7 +11,7 @@ concurrency: # prevent concurrent deploys doing strange things
   cancel-in-progress: true
 
 jobs:
-  deploy:
+  deployNeo:
     name: Build and deploy Hugo site
     runs-on: ubuntu-latest
     steps:
@@ -42,3 +42,21 @@ jobs:
           api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
           cleanup: true
           dist_dir: public
+  deployPork:
+    name: Build and deploy Hugo site
+    runs-on: ubuntu-latest
+    steps:
+      # Install Hugo in the runner
+      - name: Hugo setup
+        uses: peaceiris/actions-hugo@v3.2.1
+        with:
+          hugo-version: '0.157.0'
+          extended: true
+      # Check out the source for the site
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+      # Build the site with Hugo
+      - name: Build with Hugo
+        run: hugo --minify --baseURL=https://two-for-joy.blog/
