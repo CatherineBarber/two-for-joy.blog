@@ -27,7 +27,7 @@ jobs:
           submodules: recursive
       # Build the site with Hugo
       - name: Build with Hugo
-        run: hugo --minify --baseURL "https://two-for-joy.blog/"
+        run: hugo --minify --baseURL "https://two-for-joy.blog/" --cleanDestinationDir --gc
       # Highlight code blocks with the Torchlight CLI
       - name: Highlight with Torchlight
         run: |
