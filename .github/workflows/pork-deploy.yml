@@ -1,17 +1,16 @@
-name: Deploy to neocities
+name: Deploy to porkbun
 
-# only run on changes to main. Use main or master depending on whatever your default branch is called.
 on:
   push:
     branches:
       - main
 
 concurrency: # prevent concurrent deploys doing strange things
-  group: deploy-to-neocities
+  group: deploy-to-porkbun
   cancel-in-progress: true
 
 jobs:
-  deployNeo:
+  deployPork:
     name: Build and deploy Hugo site
     runs-on: ubuntu-latest
     steps:
@@ -34,11 +33,3 @@ jobs:
         run: |
           npm i @torchlight-api/torchlight-cli
           npx torchlight
-      # Push the rendered site to Neocities and
-      # clean up any orphaned files
-      - name: Deploy to Neocities
-        uses: bcomnes/deploy-to-neocities@v3.0.6
-        with:
-          api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
-          cleanup: true
-          dist_dir: public
