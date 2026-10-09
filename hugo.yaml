@@ -6,6 +6,10 @@ theme: PaperMod
 disableKinds:
 - sitemap
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 markup:
   goldmark:
     renderHooks:

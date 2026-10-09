@@ -12,7 +12,7 @@ concurrency: # prevent concurrent deploys doing strange things
 
 jobs:
   deployNeo:
-    name: Build and deploy Hugo site
+    name: Deploy Hugo site to neocities
     runs-on: ubuntu-latest
     steps:
       # Install Hugo in the runner
