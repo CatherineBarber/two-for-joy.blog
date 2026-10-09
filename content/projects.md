@@ -1,3 +1,5 @@
-- Solo analog games
-
-- Synth Music
+---
+title: "Projects"
+layout: "projects"
+summary: "projects"
+---
