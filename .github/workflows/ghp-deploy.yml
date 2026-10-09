@@ -1,4 +1,4 @@
-name: Deploy to porkbun
+name: Deploy to GitHub Pages
 
 on:
   push:
@@ -6,11 +6,11 @@ on:
       - main
 
 concurrency: # prevent concurrent deploys doing strange things
-  group: deploy-to-porkbun
+  group: deploy-to-github-pages
   cancel-in-progress: true
 
 jobs:
-  deployPork:
+  deployGitHubPages:
     name: Build and deploy Hugo site
     runs-on: ubuntu-latest
     steps:
@@ -28,8 +28,8 @@ jobs:
       # Build the site with Hugo
       - name: Build with Hugo
         run: hugo --minify --baseURL "https://two-for-joy.blog/" --cleanDestinationDir --gc
-      # Highlight code blocks with the Torchlight CLI
-      - name: Highlight with Torchlight
-        run: |
-          npm i @torchlight-api/torchlight-cli
-          npx torchlight
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          include-hidden-files: false
+          path: ./public
