@@ -1,4 +1,4 @@
-baseURL: "https://two-for-joy.blog/"
+baseURL: "/"
 title: two for joy
 paginate: 5
 theme: PaperMod
