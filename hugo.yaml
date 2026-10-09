@@ -3,6 +3,9 @@ title: two for joy
 paginate: 5
 theme: PaperMod
 
+disableKinds:
+- sitemap
+
 markup:
   goldmark:
     renderHooks:
