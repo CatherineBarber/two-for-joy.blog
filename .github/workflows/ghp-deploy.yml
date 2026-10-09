@@ -1,4 +1,4 @@
-name: Build and deploy
+name: Deploy to GitHub Pages
 env:
   # Define tool versions
   DART_SASS_VERSION: 1.105.0
@@ -118,7 +118,6 @@ jobs:
           hugo build \
             --gc \
             --minify \
-            --baseURL "https://two-for-joy.blog/" \
             --cacheDir "${{ runner.temp }}/.cache/hugo"
 
       - name: Cache save
