@@ -34,11 +34,3 @@ jobs:
         run: |
           npm i @torchlight-api/torchlight-cli
           npx torchlight
-      # Push the rendered site to Neocities and
-      # clean up any orphaned files
-      - name: Deploy to Neocities
-        uses: bcomnes/deploy-to-neocities@v1
-        with:
-          api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
-          cleanup: true
-          dist_dir: public
